@@ -1,1 +1,3 @@
-# foundation-day-two
+# Org Foundation
+
+Terraform configurations for shared org resources.
